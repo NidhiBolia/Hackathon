@@ -1,3 +1,4 @@
+//Converts JSON to Graphql
 const { buildSchema } = require('graphql');
 const ps=require("prompt-sync");
 const prompt=ps();
