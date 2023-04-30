@@ -1,3 +1,4 @@
+//Gives the current time of any country in JSON
 const express=require("express");
 const router=express.Router();
 
