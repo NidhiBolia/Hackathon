@@ -1,5 +1,4 @@
-Group name:Bit Rebels
-Group Members: 1.Nidhi Bolia  2.Ananya Sanghavi  3.Khushi Shukla
+
 
 Project Idea:- We have made an API that converts data into json and graphql format.It also involves converting data in json to graphql.
 It also stores data and can be tested with postman
